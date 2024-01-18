@@ -2,11 +2,11 @@
 branches:
   # whitelist
   only:
-    #- master
+    - master
     - appveyor_debug
 
 image:
-  - Visual Studio 2022
+  - Visual Studio 2021
 
 # scripts that are called at very beginning, before repo cloning
 init:
