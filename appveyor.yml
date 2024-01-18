@@ -6,7 +6,7 @@ branches:
     - appveyor_debug
 
 image:
-  - Visual Studio 2022
+  - Visual Studio 2023
 
 # scripts that are called at very beginning, before repo cloning
 init:
